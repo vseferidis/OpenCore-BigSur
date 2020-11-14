@@ -21,13 +21,13 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "_UIAC", 0)
                       "PO11", Package()
                       {
                           "name", Buffer() { "PO11" },
-                          "UsbConnector", 3,
+                          "UsbConnector", 0,
                           "port", Buffer() { 0x0B, 0x00, 0x00, 0x00 },
                       },
                       "PO12", Package()
                       {
                           "name", Buffer() { "PO12" },
-                          "UsbConnector", 3,
+                          "UsbConnector", 0,
                           "port", Buffer() { 0x0C, 0x00, 0x00, 0x00 },
                       },
                       "PO13", Package()
@@ -123,13 +123,13 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "_UIAC", 0)
                       "POT5", Package()
                       {
                           "name", Buffer() { "POT5" },
-                          "UsbConnector", 10,
+                          "UsbConnector", 9,
                           "port", Buffer() { 0x05, 0x00, 0x00, 0x00 },
                       },
                       "POT6", Package()
                       {
                           "name", Buffer() { "POT6" },
-                          "UsbConnector", 10,
+                          "UsbConnector", 9,
                           "port", Buffer() { 0x06, 0x00, 0x00, 0x00 },
                       },
                       "POT7", Package()
@@ -173,13 +173,13 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "_UIAC", 0)
                       "PRT4", Package()
                       {
                           "name", Buffer() { "PRT4" },
-                          "UsbConnector", 3,
+                          "UsbConnector", 9,
                           "port", Buffer() { 0x04, 0x00, 0x00, 0x00 },
                       },
                       "PRT5", Package()
                       {
                           "name", Buffer() { "PRT5" },
-                          "UsbConnector", 3,
+                          "UsbConnector", 9,
                           "port", Buffer() { 0x05, 0x00, 0x00, 0x00 },
                       },
                 },

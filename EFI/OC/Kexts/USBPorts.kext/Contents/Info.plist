@@ -66,7 +66,7 @@
 					<key>PO11</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>0</integer>
 						<key>name</key>
 						<string>PO11</string>
 						<key>port</key>
@@ -77,7 +77,7 @@
 					<key>PO12</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>0</integer>
 						<key>name</key>
 						<string>PO12</string>
 						<key>port</key>
@@ -253,7 +253,7 @@
 					<key>POT5</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>10</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>POT5</string>
 						<key>port</key>
@@ -264,7 +264,7 @@
 					<key>POT6</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>10</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>POT6</string>
 						<key>port</key>
@@ -365,7 +365,7 @@
 					<key>PRT4</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>PRT4</string>
 						<key>port</key>
@@ -376,7 +376,7 @@
 					<key>PRT5</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>PRT5</string>
 						<key>port</key>
